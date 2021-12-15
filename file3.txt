@@ -1,1 +1,2 @@
 Ini merupakan file3
+Sedikit perubahan pada file3.txt pada commit ketiga
