@@ -1,3 +1,6 @@
 Ini merupakan file3
 Sedikit perubahan pada file3.txt pada commit ketiga
 Terjadi sedikit lagi perubahan pada file3.txt pada commit keempat
+
+
+Perubahan pada file3.txt pada release-0.1
