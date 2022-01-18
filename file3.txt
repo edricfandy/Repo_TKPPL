@@ -4,3 +4,4 @@ Terjadi sedikit lagi perubahan pada file3.txt pada commit keempat
 
 
 Perubahan pada file3.txt pada release-0.1
+Contoh penyelesaian bug / bug fixed pada file
